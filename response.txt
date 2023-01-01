@@ -1,0 +1,1 @@
+{"id": "cmpl-6TsCx81B49ff4eUnqTN8mM4XSYQjn", "object": "text_completion", "created": 1672577907, "model": "text-davinci-003", "choices": [{"text": "\nProduct names: AdaptaShoes, FitFlex, OmniFits, PerfectFitters.", "index": 0, "logprobs": null, "finish_reason": "stop"}], "usage": {"prompt_tokens": 69, "completion_tokens": 21, "total_tokens": 90}}
